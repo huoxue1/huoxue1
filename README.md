@@ -1,4 +1,13 @@
 <span>[![Huoxue1's GitHub stats](https://github-readme-stats.vercel.app/api?username=huoxue1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</span>
+
++ 个人邮箱：3343780376@qq.com
++ 学校：成都文理学院
++ 专业：网络工程
++ 主要技能：golang后端，java后端，前端会用react和vue套框架
++ 意向职位：golang开发，java开发
++ 意向城市：成都
+
+> 希望看到的各位大佬给个内推
 <!--
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huoxue1&hide=JavaScript,HTML,TypeScript)](https://github.com/anuraghazra/github-readme-stats)
 </span>

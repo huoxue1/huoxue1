@@ -7,7 +7,6 @@
 + 意向职位：golang开发，java开发
 + 意向城市：成都
 
-> 希望看到的各位大佬给个内推
 <!--
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huoxue1&hide=JavaScript,HTML,TypeScript)](https://github.com/anuraghazra/github-readme-stats)
 </span>
